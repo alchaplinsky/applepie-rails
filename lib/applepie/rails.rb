@@ -2,6 +2,7 @@ require "applepie/rails/version"
 
 module Applepie
   module Rails
-    # Your code goes here...
+    class Engine < ::Rails::Engine
+    end
   end
 end
