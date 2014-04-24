@@ -17,7 +17,8 @@ Or install it yourself as:
     $ gem install applepie-rails
 
 ## Usage
-    In your main sass[scss] file:
+
+In your main sass[scss] file:
 
     @import "applepie/all" 
 
