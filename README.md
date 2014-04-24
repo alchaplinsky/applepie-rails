@@ -1,6 +1,6 @@
-# Applepie::Rails
+# applepie-rails
 
-TODO: Write a gem description
+ApplePie Toolkit is modular and responsive CSS framework. Getting started with ApplePie is easy. Whether you are building a simple site with a 'default' UI, or you are a master of SASS, building a new app - this toolkit will help you get up and running!
 
 ## Installation
 
@@ -17,8 +17,9 @@ Or install it yourself as:
     $ gem install applepie-rails
 
 ## Usage
+    In your main sass[scss] file:
 
-TODO: Write usage instructions here
+    @import "applepie/all" 
 
 ## Contributing
 
