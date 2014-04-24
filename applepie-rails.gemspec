@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Applepie::Rails::VERSION
   spec.authors       = ["Alex Chaplinsky"]
   spec.email         = ["alchapone@yandex.ru"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{ApplePie Semantic and modular CSS Framework. Better way to build web interfaces.}
+  spec.summary       = %q{ApplePie Toolkit for Ruby on Rails}
   spec.homepage      = ""
   spec.license       = "MIT"
 
